@@ -23,7 +23,6 @@ Support: forum.progpars.com and mahdi@progpars.com
 3. Place `<?php latestmember(); ?>` in your templates and [latestmember] in page or post
 
 == Screenshots ==
-
-<img src="http://www.progpars.com/wp-content/uploads/2012/11/screenshot1.jpg" alt="demo" />
-<img src="http://www.progpars.com/wp-content/uploads/2012/11/screenshot2.jpg" alt="panel" />
+<img src="http://www.progpars.com/wp-content/uploads/2012/11/screenshot1.jpg" alt="demo" class="screenshot" />
+<img src="http://www.progpars.com/wp-content/uploads/2012/11/screenshot2.jpg" alt="panel" class="screenshot" />
 
