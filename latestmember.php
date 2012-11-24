@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: آخرین کاربران عضو شده 
+Plugin Name: latestmember 
 Plugin URI: http://wordpress.org/extend/plugins/latestmember/
 Description: نمایش آخرین کاربران عضو شده با استفاده از تکنولوژی جی کوئری 
 Version: 1.0
