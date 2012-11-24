@@ -1,0 +1,35 @@
+.members{
+    margin:0 auto;
+    padding:2px;
+    overflow:hidden;
+    color: #5C5C5C;
+    text-shadow: 1px 1px #FFFFFF; 
+	float:right;   
+}
+.members img{
+    border-radius:4px;
+    float:right;
+    margin-left:8px;
+}
+.user_group{
+    font-size:11px;
+    line-height:20px;    
+}
+.tip {
+    color: #fff;
+    background:#1d1d1d;
+    display:none;
+    padding:10px;
+    position:absolute;    z-index:1000;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-shadow:none;
+	width:420px;
+	text-align:right;
+}
+.wp_smallimg img
+{
+	float: left;
+	margin-right: 20px;
+}
