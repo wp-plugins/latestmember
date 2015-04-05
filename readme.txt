@@ -1,4 +1,4 @@
-=== Plugin Name ===
+﻿=== Plugin Name ===
 Contributors: progpars
 Donate link: http://progpars.com/
 Tags: member, last ,user
@@ -15,6 +15,10 @@ View the latest registered users on the site using jquery
 View the latest registered users on the site using jquery
 
 Support: forum.progpars.com and mahdi@progpars.com
+
+Details for Persian Speakers => <a href="http://www.progpars.com/" rel="follow">طراحی وب سایت</a>
+<br />
+<a href="http://www.lawpars.ir/" rel="follow">مشاوره حقوقی</a>
 
 == Installation ==
 
